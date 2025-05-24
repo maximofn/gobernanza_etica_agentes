@@ -10,8 +10,7 @@
 ## Definición de agente (1 min)
 “*Sistema que percibe, planifica y ejecuta acciones de forma autónoma para alcanzar objetivos, pudiendo aprender de la experiencia y delegar tareas.*”
 
- > [!NOTE]
- >
+ > [!IMPORTANT]
  > Clave: autonomía ≠ ausencia de supervisión.
 
 ## Por qué hablar hoy de gobernanza (2 min)
