@@ -34,7 +34,7 @@ Enlaces:
  * [Microsoft wants AI 'agents' to work together and remember things](https://www.reuters.com/business/microsoft-wants-ai-agents-work-together-remember-things-2025-05-19) - Memoria eficiente: para evitar los altos costes de cómputo
  * [Agent Memory](https://docs.praison.ai/course/agents/06-agent-memory) - La memoria es el puente que convierte cada conversación en un capítulo, no en un reinicio
 
- > [!NOTE]
+ > [!TIP]
  > Ángulo de gobernanza y ética
  >  * Propiedad y caducidad del dato: permitir al usuario ver, exportar y borrar recuerdos.
  >  * Mitigación de sesgos con metadatos de procedencia.
