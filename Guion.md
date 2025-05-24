@@ -47,7 +47,7 @@ Enlaces:
 Enlaces:
  * [The evolving ethics and governance landscape of agentic AI](https://www.ibm.com/think/insights/ethics-governance-agentic-ai) - Dar control a un LLM es como cederle el volante sin frenos automáticos y un conductor responsable, la solución se convierte en peligro
 
- > [!NOTE]
+ > [!TIP]
  > Ángulo de gobernanza y ética
  > * Inyectar checkpoints éticos (¿hay consentimiento? ¿viola normas?).
  > * Estrategias de “fail-safe”: detenerse cuando el plan requiera pasos inseguros.
@@ -61,7 +61,7 @@ Enlaces:
  * [Hello AI Agents: Goodbye UI Design, RIP Accessibility](https://www.uxtigers.com/post/ai-agents) - Cuando tu agente conduzca, nadie verá el salpicadero: diseña para inteligencias que interactúan sin mirar la pantalla
  * [The Ethics Of AI In UX: Designing Transparent And Fair Experiences](https://www.forbes.com/councils/forbestechcouncil/2025/03/04/the-ethics-of-ai-in-ux-designing-transparent-and-fair-experiences) - En la UX de agentes, la transparencia es el diseño: tu copiloto digital debe explicar cada maniobra para que el usuario detecte (y corrija) sesgos antes de que el sistema actúe
 
- > [!NOTE]
+ > [!TIP]
  > Ángulo de gobernanza y ética
  > * Human-in-the-Loop: controles claros para aprobar, parar o revertir.
  > * Accesibilidad: multimodalidad (voz, braille, gestos) → no dejar colectivos fuera.
