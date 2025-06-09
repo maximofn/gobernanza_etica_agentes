@@ -13,6 +13,14 @@
  > [!IMPORTANT]
  > Clave: autonomía ≠ ausencia de supervisión.
 
+## Panorama estratégico: oportunidad, ciclo de vida y arquitectura (3 min)
+ * **Oportunidad de negocio**
+   * Reducción de costes ≈ 30 % en operaciones de atención al cliente gracias a generative AI ([McKinsey](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier)).
+   * Ejemplo de retorno rápido: Verizon declara un +40 % en ventas tras usar un asistente Gemini para sus 28 000 agentes. [Reuters](https://www.reuters.com/technology/verizon-says-google-ai-customer-service-agents-has-led-sales-jump-2025-04-09)
+ * **¿Cuándo elegir un agente?**
+   1. Tarea repetitiva pero con variabilidad (ej. reclamaciones, onboarding).
+   2. Necesidad de orquestar varias herramientas/APIs.
+
 ## Por qué hablar hoy de gobernanza (2 min)
  * Normativas empiezan a exigir trazabilidad, seguridad y explicabilidad.
     * [AI Act EU](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) - Primer marco jurídico integral del mundo para la inteligencia artificial - La AI Act convierte la IA europea en una autopista reglada: lo inaceptable se prohíbe, lo arriesgado se controla y lo cotidiano circula con confianza.
